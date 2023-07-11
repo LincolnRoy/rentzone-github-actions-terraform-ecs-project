@@ -26,8 +26,8 @@ domain_name       = "lincolncloud.net"
 alternative_names = "*.lincolncloud.net"
 
 # s3 variables
-env_file_bucket_name = "rentzone-github-atcion-for-terraform-project-to-store-env"
-env_file_name        = "env-variables-file"
+env_file_bucket_name = "rentzone-github-atcion-for-terraform-project-2"
+env_file_name        = "env-variables-file.env"
 
 # ecs variables
 architecture = "X86_64"
